@@ -1,0 +1,20 @@
+--Create a Playwright TypeScript project
+Build one simple end-to-end flow: Login → Product → Cart → Checkout
+--Add positive and negative test cases
+--Convert tests to Page Object Model
+Add fixtures
+Add assertions
+--Run tests in Chromium, Firefox, and WebKit
+Run tests in parallel
+Add multiple environment support: QA / UAT / DEV
+Add one API + UI test flow
+Practice handling multiple tabs/windows
+Save and reuse login using storage state
+Generate Playwright HTML reports
+Run tests in CI/CD
+Run tests through Jenkins or GitHub Actions
+Set up an AWS EC2 Linux machine
+Clone the Playwright project into AWS
+Install Node.js and Playwright dependencies in AWS
+Run Playwright tests headlessly in AWS
+Check reports/screenshots/traces after AWS execution
